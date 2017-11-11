@@ -35,6 +35,13 @@ nav a {
   font-size: 18px;
 }
 
+.JUMBOTRON{
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
+
 nav a:hover {
   text-decoration: underline;
   color: #0056b3;
