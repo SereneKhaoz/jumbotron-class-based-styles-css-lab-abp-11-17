@@ -42,11 +42,11 @@ div.jumbotron{
   text-align: center;
 }
 
-h1 .jumbotron{
+h1 div.jumbotron{
   font-size: 60px;
 }
 
-div .jumbotron p{
+div.jumbotron p{
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
